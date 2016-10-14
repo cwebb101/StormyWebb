@@ -1,14 +1,16 @@
-package webbtop.stormywebb;
+package webbtop.stormywebb.weather;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.TimeZone;
 
+import webbtop.stormywebb.R;
+
 /**
  * Created by Webbtop on 10/9/2016.
  */
 
-public class CurrentWeather {
+public class Current {
     private String mIcon;
     private long mTime;
     private double mTemperature;

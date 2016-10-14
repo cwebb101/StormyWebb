@@ -1,10 +1,12 @@
-package webbtop.stormywebb;
+package webbtop.stormywebb.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.Context;
 import android.os.Bundle;
+
+import webbtop.stormywebb.R;
 
 /**
  * Created by Webbtop on 10/9/2016.
